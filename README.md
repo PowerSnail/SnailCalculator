@@ -1,0 +1,2 @@
+# SnailCalculator
+Studying rust
